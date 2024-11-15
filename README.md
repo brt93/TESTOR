@@ -11,4 +11,4 @@ that for space reasons we have uploaded here (https://drive.google.com/file/d/1x
 The notebook "CMD_ extract text and edit embedding" starts from the sequenced CMD dataset and extract textual embedding and editing 
 embedding, while "CMD_seq2seq_models train-test" show the different implementatioons of the seq2seq model.
 
-Finally the Stable diffusion algorithm was finetuned using the LoRa weights
+Finally the .safetensors files contain the LoRa Weights for the stable Stable diffusion model.
